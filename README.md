@@ -2,12 +2,19 @@
 
 <h1 align="center">Hi 👋, I'm Jash Karangiya</h1>
 <h3 align="center">I am a second year graduate student of Computer Engineering studying in DEPSTAR, CHARUSAT University. And also a passionate frontend developer from India.</h3>
-<img align="center" alt="Coding" width="1100" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif"
+<img align="center" alt="Coding" width="1100" src="https://www.digitalsolutionservices.com/img/services/web%20development.gif">
+
+- 🔭 I’m currently working on **building projects**
+
+- 🌱 I’m currently learning **ReactJS and NodeJS**
+
+- 📫 How to reach me **jkarangiya06@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jash06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jash06" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/jash-karangiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash-karangiya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19916288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19916288" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jashkarangiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashkarangiya" height="30" width="40" /></a>
 </p>

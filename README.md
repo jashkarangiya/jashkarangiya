@@ -39,6 +39,8 @@
  <a href="https://linkedin.com/in/jash-karangiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jash-karangiya" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19916288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19916288" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jashkarangiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashkarangiya" height="30" width="40" /></a>
+ <a href="https://www.codechef.com/users/jash_karangiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jash_karangiya" height="30" width="40" /></a>
+ <a href="https://medium.com/@jashkarangiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jashkarangiya" height="30" width="40" /></a>
 </p>
 
 ---

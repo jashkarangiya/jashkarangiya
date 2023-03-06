@@ -50,8 +50,9 @@
 ## 📈 Activity graph
 [![Jash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jashkarangiya&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/jashkarangiya/github-readme-activity-graph)
 
-<!-- ## Snake 🐍 Eating by contribution Graph 
-![Snake GIF](https://github.com/jashkarangiya/jashkarangiya/blob/output/github-contribution-grid-snake.svg) -->
+## Snake 🐍 Eating by contribution Graph 
+
+![snake gif](https://github.com/jashkarangiya/jashkarangiya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 

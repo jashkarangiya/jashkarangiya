@@ -50,6 +50,18 @@
 ## 📈 Activity graph
 [![Jash's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jashkarangiya&bg_color=000000&color=ce0dc1&line=28a81f&point=00ff59&area=true&hide_border=true)](https://github.com/jashkarangiya/github-readme-activity-graph)
 
+---
+
+<!---
+![Metrics](https://metrics.lecoq.io/jashkarangiya?template=terminal&base.indepth=true&repositories.forks=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true)
+-->
+<p align="center">
+
+<img height="100%" src="https://metrics.lecoq.io/jashkarangiya?template=terminal&base.indepth=true&repositories.forks=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.octicon=true"/>
+</p>
+
+---
+
 ## Snake 🐍 Eating by contribution Graph 
 
 ![snake gif](https://github.com/jashkarangiya/jashkarangiya/blob/output/github-contribution-grid-snake.svg)

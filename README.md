@@ -34,7 +34,7 @@
 
 ### 🏆 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jashkarangiya&theme=darkhub&column=6&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jashkarangiya&theme=darkhub&column=6&margin-w=5&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ⚙️ &nbsp;GitHub Analytics
 

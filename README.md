@@ -51,7 +51,7 @@
 
 ---
 ## 📈 Activity graph
-[![Jash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashkarangiya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)](https://github.com/jashkarangiya/github-readme-activity-graph)
+[![Jash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jashkarangiya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 

@@ -89,6 +89,8 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashkarangiya&label=Profile%20views&color=0e75b6&style=flat" alt="jashkarangiya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/JashKarangiya" target="blank"><img src="https://img.shields.io/twitter/follow/JashKarangiya?logo=twitter&style=for-the-badge" alt="@JashKarangiya" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JashKarangiya" target="blank"><img src="https://img.shields.io/twitter/follow/JashKarangiya?logo=twitter&style=for-the-badge" alt="@JashKarangiya" /></a> </p> 
+
+<p align="left"> <a href="https://twitter.com/jashkarangiya" target="blank"><img src="https://img.shields.io/twitter/follow/jashkarangiya?logo=twitter&style=for-the-badge" alt="jashkarangiya" /></a> </p>
 
 ---

@@ -30,6 +30,9 @@
 
 - ## All My Badges are Available at [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e)
 
+# ☁️ Badges from Microsoft Azure Cloud [OFFICIAL]
+- ####  [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/JashKarangiya/AAA006D8D1C7866C?sharingId=8B43B3331B75EFC3)
+
 ---
 
 ### 🏆 Github Trophies

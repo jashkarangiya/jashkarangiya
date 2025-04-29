@@ -6,8 +6,7 @@
 <br />
 
 <div align="center">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="120px">
-  <img src="https://octodex.github.com/images/spidertocat.png" height="120px">
+  <img src="https://octodex.github.com/images/nyantocat.gif" height="150px">
 </div>
 
 ---

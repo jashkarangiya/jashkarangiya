@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a **Final Year Computer Engineering** student at **DEPSTAR, CHARUSAT University**, deeply invested in **Machine Learning**, and **Applied Research**.
 

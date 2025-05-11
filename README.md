@@ -85,10 +85,6 @@ I'm a **Final Year Computer Engineering** student at **DEPSTAR, CHARUSAT Univers
 <p align="left">
   <a href="https://twitter.com/_jash06"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
   <a href="https://linkedin.com/in/jash-karangiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-  <a href="https://stackoverflow.com/users/19916288"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="30" /></a>
-  <a href="https://www.leetcode.com/jashkarangiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
-  <a href="https://www.codechef.com/users/jash_karangiya"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" /></a>
-  <a href="https://medium.com/@jashkarangiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="30" /></a>
 </p>
 
 ---

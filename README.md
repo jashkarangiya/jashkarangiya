@@ -1,109 +1,119 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7A94E&width=950&height=50&lines=I'm+Jash+Karangiya%2C+diving+deep+into+Machine+Learning+and+intelligent+systems.)](https://git.io/typing-svg)
+<!-- <div align="center">
+  <table>
+    <tr>
+      <td valign="middle">
+       
+        </a>
+      </td>
+      <td valign="middle">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" alt="Coding Animation"/>
+      </td>
+    </tr>
+  </table>
+</div> -->
+<div align="center">
+ <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7A94E&center=true&vCenter=true&width=500&lines=I'm+curious+how+computers+work;Diving+deep+into+ML+%26+Intelligent+Systems;Building+Scalable+Cloud+Architectures" alt="Typing SVG" />
+
+</div>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="50px" alt="Coding Animation"/>
+<h3>👨‍💻 Hi, I'm Jash Karangiya</h3>
+
+<p>
+  I'm a <b>First Year Master's Student in Computer Science</b> at <b>Arizona State University (ASU)</b>. I bridge the gap between theoretical Deep Learning and scalable Cloud Systems.
+</p>
+
+<ul>
+  <li>🔭 <b>Researching:</b> Deep Learning architectures for image understanding.</li>
+  <li>📄 <b>Published:</b> Comparative analysis of CNN vs RNN for Vision tasks.</li>
+  <li>☁️ <b>Cloud Native:</b> Building ML systems on Google Cloud & Azure.</li>
+  <li>🌱 <b>Interests:</b> Computer Vision, RL, and Neural Networks.</li>
+  <li>🤝 <b>Collaboration:</b> Open to research projects in Applied Deep Learning.</li>
+</ul>
+
+<p align="left">
+  <a href="https://linkedin.com/in/jash-karangiya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/_jash06">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
+
+<h3>🔬 Featured Research</h3>
+<b>📘 From Pixels to Text: A Comparative Evaluation of CNN and RNN Models</b><br/>
+<i>Published in Springer LLNS | Presented at SmartCom 2024</i>
+<br/>
+<a href="https://orcid.org/0009-0007-6949-3244">
+  <img src="https://img.shields.io/badge/ORCID-Read_Paper-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
+</a>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<h3>🛠️ Languages & Technologies</h3>
+<table>
+  <tr>
+    <th>Languages</th>
+    <td><img src="https://skillicons.dev/icons?i=python,java,js,cpp" height="30"/></td>
+  </tr>
+  <tr>
+    <th>AI / ML</th>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,scikitlearn" height="30"/></td>
+  </tr>
+  <tr>
+    <th>Cloud</th>
+    <td><img src="https://skillicons.dev/icons?i=react,nodejs,gcp,azure,docker,linux,git" height="30"/></td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<h3>☁️ Cloud Competency</h3>
+<table>
+  <tr>
+    <td width="50%">
+      <b>Google Cloud</b><br/>
+      <a href="https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/3098033">🛠 Create and Manage Resources</a><br/>
+      <a href="https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/3046573">⚙️ Foundational Infrastructure</a>
+    </td>
+    <td width="50%">
+      <b>Microsoft Azure</b><br/>
+      ✅ <b><a href="https://learn.microsoft.com/api/credentials/share/en-us/JashKarangiya/AAA006D8D1C7866C?sharingId=8B43B3331B75EFC3">Certified: Azure Fundamentals (AZ-900)</a></b>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<h3 align="center">📈 GitHub Analytics</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jashkarangiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashkarangiya&theme=tokyonight&hide_border=true&background=0D1117" height="140" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jashkarangiya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
 <br />
 
 <div align="center">
-  <img src="https://octodex.github.com/images/nyantocat.gif" height="150px">
+  <img src="https://octodex.github.com/images/nyantocat.gif" height="60px">
+  <br/>
+  <i>“Research is formalized curiosity. It is poking and prying with a purpose.” – Zora Neale Hurston</i>
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Final Year Computer Engineering** student at **DEPSTAR, CHARUSAT University**, deeply invested in **Machine Learning**, and **Applied Research**.
-
-- 🔍 Currently researching Deep Learning architectures for image understanding
-- 📄 Published my first paper on CNN vs RNN for vision tasks  
-  **Paper**: ["From Pixels to Text: A Comparative Evaluation of Convolution Neural Network and Recurrent Neural Network Models in Image Processing"](https://orcid.org/0000-0002-6376-8346)  
-- ☁️ Passionate about scalable ML systems using **Google Cloud** and **Azure**
-- 🧠 Exploring topics in **Computer Vision**, **Neural Networks**, and **Reinforcement Learning**
-- 🧪 Open to research collaborations in AI/ML and Applied Deep Learning
-
----
-
-## 🧾 Research
-
-> **📘 Paper Title:**  
-**From Pixels to Text: A Comparative Evaluation of Convolution Neural Network and Recurrent Neural Network Models in Image Processing**  
-🔗 [ORCID Profile & Paper Link](https://orcid.org/0009-0007-6949-3244)  
-📍 Published in **Springer LLNS**, Presented at the **8th International Conference on Smart Trends in Computing and Communications (SmartCom 2024)**
-
----
-
-## ☁️ Google Cloud Badges
-
-> Official badges from [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e)
-
-[🔗 View All My Cloud Badges](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e)
-
-- 🛠 [Create and Manage Cloud Resources](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/3098033)
-- ⚙️ [Foundational Infrastructure Tasks](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/3046573)
-- 🌐 [Core Infrastructure](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/2992579)
-- 🧱 [Cloud Environment Setup](https://www.cloudskillsboost.google/public_profiles/4208b61f-b396-45fe-b093-ee39f2a7324e/badges/3049872)
-
----
-
-## ☁️ Microsoft Azure Badge
-
-- ✅ [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/JashKarangiya/AAA006D8D1C7866C?sharingId=8B43B3331B75EFC3)
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jashkarangiya&theme=algolia&column=6&margin-w=5&margin-h=15" />
-</p>
-
----
-
-### ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jashkarangiya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jashkarangiya&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jashkarangiya&layout=compact&langs_count=8&theme=algolia" width="50%" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-[![Jash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jashkarangiya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-
-### 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://twitter.com/_jash06"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
-  <a href="https://linkedin.com/in/jash-karangiya"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-</p>
-
----
-
-<p align="center"><i>“Research is formalized curiosity. It is poking and prying with a purpose.” – Zora Neale Hurston</i></p>

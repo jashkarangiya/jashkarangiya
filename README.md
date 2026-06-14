@@ -17,7 +17,7 @@
 <a href="https://twitter.com/_jash06"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="26"/></a>&nbsp;
 <a href="mailto:jkarangi@asu.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="26"/></a>&nbsp;
 <a href="https://orcid.org/0009-0007-6949-3244"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" height="26"/></a>&nbsp;
-<a href="https://medium.com/@YOUR_MEDIUM_HANDLE"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" height="26"/></a>&nbsp;
+<a href="https://medium.com/@jashkarangiya"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" height="26"/></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=jashkarangiya&style=flat-square&color=26d0ce&label=Profile+Views" height="26"/>
 
 </div>
